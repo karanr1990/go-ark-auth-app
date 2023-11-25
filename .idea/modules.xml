@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/go-ark-auth-app.iml" filepath="$PROJECT_DIR$/.idea/go-ark-auth-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../go-ark-auth-fe/.idea/go-ark-auth-fe.iml" filepath="$PROJECT_DIR$/../go-ark-auth-fe/.idea/go-ark-auth-fe.iml" />
     </modules>
   </component>
 </project>
